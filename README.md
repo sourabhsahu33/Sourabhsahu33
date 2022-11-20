@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **to build the project based on Cryptography algorithm.**
 
-- 👯 I’m looking to collaborate on **Software Project.**
+- 👯 I’m looking to collaborate on **Different kind of Software Project.**
 
 - 👨‍💻 All of my projects are available at **My Github Repositories.**
 
-- 💬 Ask me about **Cyber Security, Web Development,  **
+- 💬 Ask me about **Cyber Security, Web Development, java.**
 
 <h3> 📫 How to reach me </h3>
 <ul dir="auto">
@@ -23,7 +23,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-📝 I regularly write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
+📝 I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,9 +39,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
 
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhsahu33&show_icons=true&locale=en" alt="sourabhsahu33" /></p>
+<p color="black">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhsahu33&show_icons=true&locale=en" alt="sourabhsahu33" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p> -->
 
- <h2 align="center">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></h2>
+ <h2 align="center">Thank You so much for Visiting.<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></h2>
