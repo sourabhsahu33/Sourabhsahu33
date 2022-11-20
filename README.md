@@ -39,8 +39,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
 
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhsahu33&show_icons=true&locale=en" alt="sourabhsahu33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p> -->
 
- <h3 align="center">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></h3>
+ <h2 align="center">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></h2>
