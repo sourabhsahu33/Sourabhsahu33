@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsahu33&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsahu33" /> </p>
-<img align="right" alt= "coding" width="300" hight="300" src = "https://i.ibb.co/6mzmhL1/rrr2.png">
+<img align="right" alt= "coding" width="330" hight="330" src = "https://i.ibb.co/6mzmhL1/rrr2.png">
 
 - 🔭 I’m currently working on **Image Security.**
 
