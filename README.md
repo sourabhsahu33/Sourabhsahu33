@@ -31,17 +31,12 @@
 
 ### Languages and Tools:
 
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://www.mathworks.com/)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-
+[![HTML5](https://skillicons.dev/icons/html-5.svg)](https://www.w3.org/html/)
+[![CSS3](https://skillicons.dev/icons/css-3.svg)](https://www.w3schools.com/css/)
+[![JavaScript](https://skillicons.dev/icons/javascript.svg)](https://www.javascript.com/)
+[![MATLAB](https://skillicons.dev/icons/matlab.svg)](https://www.mathworks.com/)
+[![Bootstrap](https://skillicons.dev/icons/bootstrap.svg)](https://getbootstrap.com)
+[![Git Bash](https://skillicons.dev/icons/git.svg)](https://git-scm.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
 
