@@ -8,27 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsahu33&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsahu33" /> </p>
 <img align="right" alt= "coding" width="330" hight="330" src = "https://i.ibb.co/6mzmhL1/rrr2.png">
 
-- 🔭 I’m currently working on **Image Security.**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **to build the project based on Cryptography algorithm.**
-
-- 👯 I’m looking to collaborate on **Different kind of Software Project.**
 
 - 👨‍💻 All of my projects are available at **My Github Repositories.**
 
 - 💬 Ask me about **Cyber Security, Web Development, java.**
 
-</br>
-<h3> 📫 How to reach me </h3>
-<ul dir="auto">
-<li>Gmail: - <strong>sourabh.sahu10033@gmail.com</strong></li>
-</ul>
-</br>
-
-### 📝 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
- I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
+- How to reach me Gmail: - <strong>sourabh.sahu10033@gmail.com</strong>
+- Blogs posts-I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 <br>
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="center">
