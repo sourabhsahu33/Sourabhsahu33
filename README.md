@@ -16,8 +16,8 @@
 
 - 💬 Ask me about **Cyber Security, Web Development, java.**
 
-- How to reach me Gmail: - <strong>sourabh.sahu10033@gmail.com</strong>
-- 📑 Blogs posts-I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
+- 📱 How to reach me Gmail: - <strong>sourabh.sahu10033@gmail.com</strong>
+- 📑 I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 <br>
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,13 @@
 [![MATLAB](https://skillicons.dev/icons/matlab.svg)](https://www.mathworks.com/)
 [![Bootstrap](https://skillicons.dev/icons/bootstrap.svg)](https://getbootstrap.com)
 [![Git Bash](https://skillicons.dev/icons/git.svg)](https://git-scm.com/)
+[![Java](https://skillicons.dev/icons/java.svg)](https://www.java.com)
+[![Linux](https://skillicons.dev/icons/linux.svg)](https://www.linux.org/)
+[![Discord](https://skillicons.dev/icons/discord.svg)](https://discord.com/)
+[![React](https://skillicons.dev/icons/react.svg)](https://reactjs.org/)
+[![PHP](https://skillicons.dev/icons/php.svg)](https://www.php.net)
+[![MySQL](https://skillicons.dev/icons/mysql.svg)](https://www.mysql.com/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
 
