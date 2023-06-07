@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/wsNF7B3/Blue-Pink-Gradient-Fashion-Banner.png" />
+  <img src="https://i.ibb.co/Cpckhz9/bnner.png" />
 </p>
 <h3 align="center">I am Cyber Security Enthusiast and SWE from INDIA </h3>
 <h1 align="center">Hello , I'm Sourabh Sahu 👋 !</h1>
