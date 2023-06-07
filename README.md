@@ -20,25 +20,24 @@
 - 📑 I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 <br>
 <h3 align="left">🤝 Connect with me:</h3>
-
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/sourabh60513637" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh4001/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@sourabh.sahu10033" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.leetcode.com/sourabhsahu33" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sourabhsahu2020" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/sourabhsahu33/practice" target="_blank">
+    <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
   </a>
-  <a href="https://discord.gg/#4016" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://medium.com/@sourabh.sahu10033" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
+   <a href="https://discord.gg/#4016" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
