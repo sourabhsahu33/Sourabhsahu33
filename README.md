@@ -19,7 +19,7 @@
 - How to reach me Gmail: - <strong>sourabh.sahu10033@gmail.com</strong>
 - 📑 Blogs posts-I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sourabh60513637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabh60513637" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh4001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourabh4001/" height="30" width="40" /></a>
@@ -38,5 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p>
 
- <p dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
-
+ <p align="center" dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
