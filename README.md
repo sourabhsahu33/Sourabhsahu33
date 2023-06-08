@@ -57,10 +57,9 @@
   </p>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
+|[![GitHub Streak](https://streak-stats.demolab.com/?user=sourabhsahu33&theme=dark)](https://git.io/streak-stats) | ![Sourabhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhsahu33&show_icons=true&theme=radical) |
+| --- | --- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhsahu33&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhsahu33&show_icons=true&locale=en" alt="sourabhsahu33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p>
 
  <b><p align="center" dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p></b>
