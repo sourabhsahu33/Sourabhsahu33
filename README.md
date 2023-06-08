@@ -51,10 +51,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,github,discord,java,matlab,bootstrap,git,linux,discord,react,php,mysql,processing" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,vscode&perline=14" />
-  </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,python,vscode&perline=14" />
+  </a>
+  </p>
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
