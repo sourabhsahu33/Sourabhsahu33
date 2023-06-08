@@ -21,7 +21,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h3 style="display: inline-block">Connect With Me🤝 :</h3></summary>
+    <summary><h3 style="display: inline-block">> Connect With Me🤝 :</h3></summary>
   </ul>
 </div>
 
@@ -45,14 +45,17 @@
 </p>
 
 
-### Languages and Tools:
+### 🖥️ Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,github,discord,java,matlab,bootstrap,git,linux,discord,react,php,mysql,processing,python,cplusplus" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,github,discord,java,matlab,bootstrap,git,linux,discord,react,php,mysql,processing" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,vscode&perline=14" />
   </a>
 </p>
-
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsahu33&show_icons=true&locale=en&layout=compact" alt="sourabhsahu33" /></p>
 
