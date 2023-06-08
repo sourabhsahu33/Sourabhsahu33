@@ -19,11 +19,7 @@
 - 📑 I write blog on [Medium(M)](https://medium.com/@sourabh.sahu10033)
 <br>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h3 style="display: inline-block">> Connect With Me🤝 :</h3></summary>
-  </ul>
-</div>
+### 🤝 Connect With Me:
 
 <!--icons and links-->
 <p align="center">
@@ -65,4 +61,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsahu33&" alt="sourabhsahu33" /></p>
 
- <p align="center" dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
+ <b><p align="center" dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p></b>
