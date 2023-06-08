@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://i.ibb.co/Cpckhz9/bnner.png" />
 </p>
-<h3 align="center">I am Cyber Security Enthusiast and SWE from INDIA </h3>
-<h1 align="center">Hello , I'm Sourabh Sahu 👋 !</h1>
-
+<h1 align="center">Hi there, I'm Sourabh Sahu! 👋</h1>
+<h3 align="center">Cybersecurity Enthusiast and Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsahu33&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsahu33" /> </p>
 <img align="right" alt= "coding" width="330" hight="330" src = "https://i.ibb.co/6mzmhL1/rrr2.png">
