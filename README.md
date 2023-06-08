@@ -18,6 +18,25 @@
 - 📱 How to reach me Gmail: - <strong>sourabh.sahu10033@gmail.com</strong>
 - 📑 I write blog on Medium(M) [https://medium.com/@sourabh.sahu10033](https://medium.com/@sourabh.sahu10033)
 <br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/harishcarpenter/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harishcarpenter" target="blank" ><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="geeksforgeeks" height="50" width="50" /></a>
+<a href="https://leetcode.com/harishcarpenter/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="leetcode" height="50" width="50" /></a>
+<a href="https://www.codechef.com/users/car12" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" alt="codechef" height="50" width="50" /></a>
+  
+</p>
+
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/sourabh60513637" target="_blank">
