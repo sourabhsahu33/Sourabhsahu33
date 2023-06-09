@@ -54,6 +54,7 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cpp,python,vscode&perline=14" />
   </a>
+  <a href="https://ibb.co/B2Ln2Fd"><img src="https://i.ibb.co/jkhJksB/Wireshark-icon-svg.png" alt="Wireshark-icon-svg" border="0"height="50" width="50"></a>
   </p>
 </br>
 
