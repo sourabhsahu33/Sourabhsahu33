@@ -64,4 +64,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhsahu33&layout=donut-vertical)](https://github.com/Sourabhsahu33/Sourabhsahu33) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sourabhsahu33&repo=Software-Approach-Enigma-Machine-)](https://github.com/Sourabhsahu33/Software-Approach-Enigma-Machine-) </br></br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sourabhsahu33&repo=How-To-Process-Incoming-Request-Data-in-Flask)](https://github.com/Sourabhsahu33/How-To-Process-Incoming-Request-Data-in-Flask)
 
 
- <b><p align="center" dir="auto">Thank you so much for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p></b>
+ <b><p align="center" dir="auto">Thanks for visiting<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p></b>
