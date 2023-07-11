@@ -25,19 +25,19 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabh4001/" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
     <a href="https://medium.com/@sourabh.sahu10033" target="_blank">
      <img align="center" src="https://i.ibb.co/ZG3qWLm/medium-icon-white-on-black.png" alt="medium-icon-white-on-black" border="0" alt="Medium" height="55" width="70"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sourabhsahu33" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="GeeksforGeeks" height="50" width="50" />
   </a>
-  <a href="https://leetcode.com/Sourabhsahu33/" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="LeetCode" height="50" width="50" />
   </a>
-   <a href="https://twitter.com/sourabh60513637" target="_blank">
+   <a href="#" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50" width="50" />
   </a>
 </p>
