@@ -34,7 +34,7 @@
   <a href="#" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="GeeksforGeeks" height="50" width="50" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://leetcode.com/Sourabhsahu07/" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="LeetCode" height="50" width="50" />
   </a>
    <a href="#" target="_blank">
